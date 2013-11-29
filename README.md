@@ -1,4 +1,4 @@
 bm-bone
 =======
 
-This is sagar's sample boot loader
+This is sagar's sample operating system.
