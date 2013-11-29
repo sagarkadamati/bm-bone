@@ -1,4 +1,4 @@
 bm-bone
 =======
 
-This is sagar's sample operating system.
+This is sagar's simple operating system.
