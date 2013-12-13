@@ -70,7 +70,7 @@
 
 /* GPTIMER9 */
 #define GPTIMER9                   0x49040000
-#define #define _L4                0x49041000
+#define GPTIMER9_L4                0x49041000
 
 // #define RESERVED                0x49042000
 
